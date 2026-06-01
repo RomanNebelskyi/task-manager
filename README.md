@@ -1,4 +1,4 @@
-# PetProject — Task Management System
+# Task Manager
 
 A web-based task management platform with role-based access control, queue processing, and email notifications. Built with Spring Boot.
 

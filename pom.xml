@@ -12,7 +12,7 @@
 	<artifactId>petProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>petProject</name>
-	<description>Pet project</description>
+	<description>Task management system with role-based access, queue processing, and email notifications. Built with Spring Boot.</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
